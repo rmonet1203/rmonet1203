@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 I've been coding since last year after changing my career from Commerce to Technology. I started with HTML and CSS and now I'm building E-Commerce websites and a lot of different stuff.
 
-* 🌍  I'm based in Toronto,Canada
+* 🌍  I'm Robert
 * 🖥️  See my portfolio at <a href="https://rmonet.github.io" target="_blank">Portfolio</a>
 * ✉️  You can contact me at [everyone20171203@outlook.com](mailto:everyone20171203@outlook.com)
 * 🤝  I'm open to collaborating on interesting projects
